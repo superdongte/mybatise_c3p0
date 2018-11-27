@@ -21,6 +21,11 @@ public class Title {
 	public String toString() {
 		return String.format("Title [code=%s, name=%s]", code, name);
 	}
+	public Title(int code, String name) {
+		this.code = code;
+		this.name = name;
+	}
+	
 	
 	
 }

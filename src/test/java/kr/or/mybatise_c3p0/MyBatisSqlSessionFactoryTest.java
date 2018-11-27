@@ -1,7 +1,5 @@
 package kr.or.mybatise_c3p0;
 
-import static org.junit.Assert.*;
-
 import org.apache.ibatis.logging.Log;
 import org.apache.ibatis.logging.LogFactory;
 import org.apache.ibatis.session.SqlSession;
